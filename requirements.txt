@@ -1,0 +1,3 @@
+pyorbital
+ntplib
+numpy
