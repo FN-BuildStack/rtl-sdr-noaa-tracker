@@ -1,0 +1,25 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Sensitive or user-specific configuration
+station_config.json
+
+# Downloaded TLE data (ephemeral)
+noaa.tle
+
+# Large binary and media files
+*.wav
+*.zip
+*.png
+
+# External binaries and their resources
+noaa-apt
+res/
+test/
+run-noaa-apt.sh
+
+# Temporary download logs
+wget-log*
+gp.php*
