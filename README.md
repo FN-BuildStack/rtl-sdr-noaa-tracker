@@ -92,4 +92,7 @@ python3 tracker.py
 
 ## License
 
-This code is provided as-is for educational and amateur radio exploration.
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Disclaimer
+This code is provided "as-is" for educational and amateur radio exploration purposes only. The author is not responsible for any legal issues, hardware damage, or interference with licensed radio transmissions that may arise from the use of this software. Always ensure you are operating within the radio frequency regulations and laws of your country.
